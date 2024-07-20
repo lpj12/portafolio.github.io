@@ -448,7 +448,7 @@ padding: 100px 0px;
 .card-1 {
     width: 15em;
     height: 10em;
-    background-image: url('img/p1.PNG');
+    background-image: url('img/p1.png');
     background-size: cover;
     border-radius: 7px;
     
@@ -466,7 +466,7 @@ padding: 100px 0px;
 .card-3 {
     width: 15em;
     height: 10em;
-    background-image: url('img/p3.PNG');
+    background-image: url('img/p3.png');
     background-size: cover;
     border-radius: 7px;
     cursor: pointer;
@@ -475,7 +475,7 @@ padding: 100px 0px;
 .card-4 {
     width: 15em;
     height: 10em;
-    background-image: url('img/p4.PNG');
+    background-image: url('img/p4.png');
     background-size: cover;
     border-radius: 7px;
     cursor: pointer;
